@@ -85,14 +85,9 @@
             android:text="Text"
             android:id="@+id/headingText"
             android:layout_below="@+id/coverImage"
-
             android:singleLine="true"
-
-
             android:maxWidth="275dp"
             android:ellipsize="end"
-
-
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
             android:layout_marginLeft="10dp"
             android:paddingBottom="5dp"
